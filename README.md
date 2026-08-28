@@ -38,8 +38,8 @@ está diseñado exactamente para este tipo de seguimiento visual.
 
 ## Integrantes del equipo
 
-Daina Jahaveth Vega Coronado 
-Myrka Neftali Salazar 
+Daina Jahaveth Vega Coronado (20660083)
+Myrka Neftalí Salazar Morales (22660252) 
 
 ## Cómo ejecutar el proyecto
 
