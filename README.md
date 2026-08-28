@@ -38,6 +38,9 @@ está diseñado exactamente para este tipo de seguimiento visual.
 
 ## Integrantes del equipo
 
+Daina Jahaveth Vega Coronado 
+Myrka Neftali Salazar 
+
 ## Cómo ejecutar el proyecto
 
 No requiere instalación ni dependencias., por ahora. Hasta con abrir `index.html` en
