@@ -8,6 +8,11 @@ sin depender de una app comercial con anuncios o suscripción. Su alcance
 —temporizador de trabajo/descanso con controles de inicio, pausa, detención
 y reinicio— es alcanzable por un equipo principiante en el tiempo
 disponible de esta práctica.
+El Pomodoro Clock busca resolver un problema muy concreto: mantener el enfoque durante períodos de estudio o trabajo evitando el cansancio mental que produce trabajar sin pausas. 
+Se basa en la Técnica Pomodoro, creada por Francesco Cirillo en los años 80, que parte de una idea simple: el cerebro rinde mejor en bloques cortos de concentración intensa 
+(tradicionalmente 25 minutos) seguidos de descansos breves (5 minutos), y cada cierto número de ciclos conviene un descanso más largo para recuperarse de verdad.
+El objetivo académico de la práctica no es solo "hacer un timer", sino mas bien demostrar que el equipo puede: tomar una idea de un banco de proyectos, 
+convertirla en requerimientos claros (user stories), organizarla en un flujo de trabajo con Git/GitHub, y entregar una aplicación funcional en el tiempo asignado.
 
 ## User Stories
 
@@ -33,13 +38,9 @@ está diseñado exactamente para este tipo de seguimiento visual.
 
 ## Integrantes del equipo
 
-- Nombre completo — usuario de GitHub
-- Nombre completo — usuario de GitHub
-- Nombre completo — usuario de GitHub
-
 ## Cómo ejecutar el proyecto
 
-No requiere instalación ni dependencias. Basta con abrir `index.html` en
+No requiere instalación ni dependencias., por ahora. Hasta con abrir `index.html` en
 cualquier navegador, o usar la extensión "Live Server" de VS Code para
 recarga automática mientras se edita.
 
@@ -55,5 +56,3 @@ pomodoro-clock/
 └── RETROSPECTIVA.md
 ```
 =======
-# Pomodoro-clock
->>>>>>> 23871f7fdbb27737142f38b58449317744ea1deb
